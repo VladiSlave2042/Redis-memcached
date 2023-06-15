@@ -4,15 +4,15 @@
 Оптимизировать и ускорить работу базы данных, а если точнее уменьшить отклик на запросы пользователя в случае если его запрос будит имется в кеше, как правило это наиболее часто запрашиваемые файлы. Так же подобный подход позволяет разгрузить нашу основную БД либо же основной диск нашей БД. Так же например можно пережить резкий наплыв обращений к базе и так далее и тому подобное.
 ---
 ## Задание 2
-![https://github.com/VladiSlave2042/Redis-memcached/blob/main/img/2.1.png]
+!(скрин)[https://github.com/VladiSlave2042/Redis-memcached/blob/main/img/2.1.png]
 ---
 ## Задание 3
 Что то я не совсем зразумил как посмотреть удалились ли ключи, т.к. почему то логфайл по умолчанию отсутствует, но вероятно так из за того что я сижу на локальном хосте через телнет, а логфайл по умолчанию у меня отсутствует.
-![https://github.com/VladiSlave2042/Redis-memcached/blob/main/img/3.1.png]
+!(скрин)[https://github.com/VladiSlave2042/Redis-memcached/blob/main/img/3.1.png]
 ---
 ## Задание 4
 Вот так как-то
-![https://github.com/VladiSlave2042/Redis-memcached/blob/main/img/4.1.png]
+!(скрин)[https://github.com/VladiSlave2042/Redis-memcached/blob/main/img/4.1.png]
 ---
 ## Задание 5
-![https://github.com/VladiSlave2042/Redis-memcached/blob/main/img/5.1.png]
+!(скрин)[https://github.com/VladiSlave2042/Redis-memcached/blob/main/img/5.1.png]
