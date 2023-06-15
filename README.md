@@ -15,4 +15,5 @@
 ![скрин](https://github.com/VladiSlave2042/Redis-memcached/blob/main/img/4.1.png)
 ---
 ## Задание 5
+Операция incrby поможет, как я понял все зависит от команды, редис может и сложить числа и сложить строки, например APPEND просто сложит две строки и получит не 10, а 55
 ![скрин](https://github.com/VladiSlave2042/Redis-memcached/blob/main/img/5.1.png)
